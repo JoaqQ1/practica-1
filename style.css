@@ -29,3 +29,14 @@ section {
   text-align: center;
   max-width: 500px;
 }
+.buscador{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.buscador input{
+  border: inherit;
+}
+.buscador input:hover{
+  border: solid .4px blue;
+}
