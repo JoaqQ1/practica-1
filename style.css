@@ -32,7 +32,7 @@ section {
 .buscador{
   margin-top: 20px;
   display: flex;
-  justify-content: start;
+  justify-content: end;
 }
 .buscador input{
   border: inherit;
